@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src=".github/banner.svg" width="100%" alt="Shubham AI Lab, system 02 of 07 (Docs Only · Source Proprietary): AI agent → MCP server → Auth + permissions → Rate limits + audit → Salesforce / Smartsheet. Stack: MCP SDK, Streamable HTTP, PostgreSQL, SQLite, Docker.">
+
+[🌐 Portfolio](https://shubham-ai-lab.vercel.app/) · [👤 GitHub profile](https://github.com/Shubham261299) · [💼 LinkedIn](https://www.linkedin.com/in/shubham-jamdar-2571271b3)
+
+</div>
+
 # Enterprise MCP Layer: Salesforce + Smartsheet MCP Servers
 
 > Two standalone **Model Context Protocol (MCP)** servers that let AI agents use business systems **without the LLM ever being the security boundary.** Both are deployed internally.
